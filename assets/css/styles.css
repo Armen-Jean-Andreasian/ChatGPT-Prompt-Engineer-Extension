@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Osvald';
+    src: url('../fonts/osvald.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    width: 200px;
+    padding: 10px;
+    background-image: url('../img/background.jpg');
+    color: #d5e8d5;
+    font-family: "Osvald", "Courier New", monospace;
+    text-align: center;
+}
+
+button {
+    background-color: #a86cec; /* Neon green background color */
+    color: #111;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #33ff33; /* Slightly brighter green on hover */
+}
