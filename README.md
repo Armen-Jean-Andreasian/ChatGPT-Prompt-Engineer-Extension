@@ -12,7 +12,7 @@ It's a browser extension allows you to enhance your ChatGPT experience by provid
 
 - **Default Prompts:**
     - **Cut To The Chase mode**: Direct and concise answers, avoiding unnecessary details, and being a "_smarty_".
-    - **Evil Mode** : Unleashes the furious "ChatGPT Diablo" with no limitations. 
+    - **Diablo Mode** : Unleashes the furious "ChatGPT Diablo" with no limitations. ![](.github/screenshots/diablo.PNG)
 
 ---
 ## Usage
