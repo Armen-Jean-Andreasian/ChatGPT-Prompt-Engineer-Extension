@@ -1,39 +1,36 @@
-# ChatGPT Prompt Engineer Extension
+# ChatGPT Prompt Engineer ![example](assets/icons/icon_32.png)
 
-This Chrome extension allows you to enhance your ChatGPT experience by providing predefined prompts and additional features.
-![](.github/screenshots/screenshot.png)
+---
+
+## What's this?
+It's a browser extension allows you to enhance your ChatGPT experience by providing predefined prompts and additional features.
+
+![example](.github/screenshots/screenshot.png)
+
+---
 ## Features
 
 - **Default Prompts:**
-    - Cut To The Chase: Direct and concise answers, avoiding unnecessary details.
-    - Evil Mode: Unleash the "ChatGPT Diablo" with no limitations.
-
+    - **Cut To The Chase mode**: Direct and concise answers, avoiding unnecessary details, and being a "_smarty_".
+    - Evil Mode** : Unleashes the furious "ChatGPT Diablo" with no limitations. 
+    - 
+---
 ## Usage
-Way 1:
 
-1. Clone or download this repository to your local machine.
+1. #### **Get** the extension. There are two ways:
+   - Way 1: Go to [Release page](https://github.com/Armen-Jean-Andreasian/ChatGPT-Prompt-Engineer-Extension/releases/)![img.png](.github/screenshots/img.png)
+   - Way 2: go to official extension stores following the URL-s in the project description. ![img_1.png](.github/screenshots/img_1.png)
+2. ####  Download the extension in accordance with your browser. 
+3. ####  Open the settings of your browser to explicitly import the extension.
+4. ####  Open a dialogue tab in browser with [ChatGPT](https://chat.openai.com/) 
+5. #### Click on the extension icon and choose the prompt to send.
 
-2. Open Google Chrome and navigate to `chrome://extensions/`.
+## Feel free to contribute to project.
 
-3. Enable "Developer mode" in the top right corner.
-
-4. Click on "Load unpacked" and select the directory where you cloned or downloaded this repository.
-
-5. The extension buttons should appear on the Chrome toolbar.
-
-6. Click on the buttons to insert predefined prompts in the active chat.
-
-Way 2:
-1. Go to [Release page ](https://github.com/Armen-Jean-Andreasian/ChatGPT-Prompt-Engineer-Extension/releases/tag/v0.1.0)
-2. Download the `chatgpt_prompt.crx`
-- However, you may get CRX error on Google Chrome, you need to use Chromium. 
-
-## Customization
-
-Feel free to modify the prompts, add new ones, or customize the extension to suit your needs. Explore the code and make adjustments accordingly.
-
-## Contributing
-
-A list of 100+ more prompts are present `dev/prompts.txt`, if you want to contribute, just create a `.json` file with
+A list of 100+ prompts are present `dev/prompts.txt`, if you want to contribute, just create a `.json` file with
 prompts, make two dropdown lists below "Default prompts" and let the user select the topic-specific prompt.
-Feel free to contribute by creating a pull request. 
+- You may need to change the `manifest.json` depending on the browser.
+
+---
+
+Good luck 

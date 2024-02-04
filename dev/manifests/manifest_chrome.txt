@@ -3,11 +3,6 @@
   "version": "1.0",
   "description": "Promtifyies ChatGPT",
   "manifest_version": 3,
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "{640346cb-d364-49e6-bdee-91418191e52c}"
-    }
-  },
   "action": {
     "default_icon": {
       "16": "assets/icons/icon_16.png",
@@ -27,3 +22,4 @@
     }
   ]
 }
+	
