@@ -1,4 +1,4 @@
-# ChatGPT Prompt Engineer ![example](assets/icons/icon_32.png)
+# ChatGPT Prompt Engineer for GPT-3 version ![example](assets/icons/icon_32.png)
 
 ---
 
